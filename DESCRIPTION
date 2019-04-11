@@ -11,4 +11,10 @@ RoxygenNote: 6.1.1
 Imports:
     lme4,
     Matrix,
-    lattice
+    lattice,
+    glue,
+    dplyr,
+    tidyr,
+    stringr,
+    purrr,
+    tibble
